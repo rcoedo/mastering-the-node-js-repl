@@ -7,11 +7,11 @@ The examples are divided in different files and the features are incrementally a
 You can run each example like this:
 
 ```
-$ node repl-final.js
+$ node part-2/repl-final.js
 ```
 
 Or optionally, if you are using node 10 and you want to have `await` available inside the REPL:
 
 ```
-$ node --experimental-repl-await repl-final.js
+$ node --experimental-repl-await part-2/repl-final.js
 ```
