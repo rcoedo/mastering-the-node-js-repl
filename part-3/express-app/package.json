@@ -1,0 +1,14 @@
+{
+  "name": "example-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "4.16.3",
+    "faker": "4.1.0",
+    "nodemon": "1.18.3"
+  }
+}
